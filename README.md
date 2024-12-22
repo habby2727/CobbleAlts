@@ -1,3 +1,5 @@
-CobbleAlts -
-Mod to detecte and manage alt accounts on offline servers -
-Dependencies "CobbleUtils" and "Architectury"
+CobbleAlts
+
+Mod to track and manage alt accounts in offline servers (Forge and Fabric)
+
+Dependencies: "CobbleUtils" and "Architectury"
